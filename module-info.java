@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author hamar
+ *
+ */
+module DesignPatterns {
+}
